@@ -1,0 +1,501 @@
+.pad-header-container {
+    padding: 0;
+    max-width: 100%;
+}
+
+
+.bg_nav {
+    background-color: rgba(194, 239, 212, 1);
+}
+
+.nav_hover:hover {
+    color: rgba(34, 79, 52, 1);
+}
+
+.logo {
+    width: 50px;
+}
+
+.shop_bag {
+    width: 30px;
+    height: 30px;
+    margin-right: 57px;
+}
+
+.nav_text {
+    font-size: 22px;
+    font-family: 'Popins';
+    color: rgba(34, 79, 52, 1);
+}
+
+.btn_log-in {
+    width: 142px;
+    height: 52px;
+    background-color: rgba(194, 239, 212, 1);
+}
+
+.section_1 {
+    background-color: rgba(194, 239, 212, 1);
+    max-width: 100%;
+}
+
+.text_discover {
+    color: rgba(34, 79, 52, 1);
+    font-size: 86px;
+    line-height: 106px;
+    font-family: 'Rufina';
+}
+
+.text_explore {
+    color: rgba(38, 125, 73, 1);
+    font-size: 24px;
+    line-height: 52.8px;
+    font-family: 'Popins';
+    padding-top: 27px;
+    padding-bottom: 54px;
+}
+
+.btn_explore {
+    width: 258px;
+    height: 54px;
+    color: rgba(255, 255, 255, 1);
+    background-color: rgba(34, 79, 52, 1);
+    box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
+    border: none;
+}
+
+.btn_explore:hover {
+    box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+}
+
+
+.section_1 {
+    padding-top: 152px;
+    padding-bottom: 166px;
+}
+
+.box_right_big-foto {
+    box-shadow: 6px 4px 26px 0px rgba(0, 0, 0, 0.12) inset;
+    background-color: rgba(107, 199, 133, 1);
+    border-radius: 141px 45px 150px 82px;
+    max-width: 100%;
+}
+
+.big-foto {
+    max-width: 100%;
+}
+
+.section_2 {
+    padding-top: 114px;
+}
+
+.best_text {
+    font-size: 64px;
+    font-family: 'Roboto slab';
+    line-height: 84px;
+    color: rgba(34, 79, 52, 1);
+    font-weight: 500;
+    text-align: center;
+    margin-bottom: 0;
+    padding-bottom: 37px;
+}
+
+.get_text {
+    color: rgba(34, 79, 52, 1);
+    font-family: 'Poppins';
+    font-size: 22px;
+    line-height: 33px;
+    text-align: center;
+}
+
+.box {
+    background-color: rgba(147, 185, 162, 1);
+    position: relative;
+}
+
+.box img {
+    max-width: 100%;   
+}
+
+.text_model-box {
+    font-size: 22px;
+    font-family: 'Poppins';
+    line-height: 33px;
+    color: rgba(55, 55, 55, 1);
+    text-align: center;
+    padding-top: 51px;
+}
+
+.price {
+    color: rgba(69, 69, 69, 1);
+    font-size: 22px;
+    font-family: 'Poppins';
+    line-height: 33px;
+    border-right: 1px solid rgba(69, 69, 69, 1);
+    width: 75px;
+}
+
+.star::after {
+    content: url('/star.png');
+    width: 24px;
+    position: relative;
+    top: 3px;
+    
+}
+
+.star {
+    padding-left: 15px;
+}
+
+.d-flex {
+    display: flex;
+    justify-content: center;
+}
+
+.btn_see {
+    text-align: center;
+    padding-top: 60px;
+}
+
+.btn_see-all {
+    width: 224px;
+    height: 65px;
+    padding: 16px 55px 16px 55px;
+    border: 2px solid rgba(34, 79, 52, 1);
+}
+
+.btn_see-all::after {
+    content: url('/arrow.png');
+    width: 23px;
+    position: relative;
+    top: 3px;
+    left: 15px;
+}
+
+.btn_see-all:hover {
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.section_3 {
+    padding-top: 185px;
+}
+
+.our_prod {
+    text-align: center;
+    font-family: 'Roboro Slab';
+    font-size: 50px;
+    line-height: 66px;
+    font-weight: 500;
+    color: rgba(34, 79, 52, 1);
+}
+
+
+.flex {
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 70px;
+}
+
+.list_oll-product {
+    list-style-type: none;
+}
+
+.list {
+    text-decoration: none;
+    color: rgba(69, 69, 69, 1);
+    font-size: 22px;
+    font-family: 'Poppins';
+    line-height: 33px;
+    padding: 3px 3px;
+}
+
+.list:hover {
+    border-bottom: 1px solid rgba(69, 69, 69, 1);
+}
+
+.pad-top_box {
+    padding-top: 80px;
+}
+
+.box_bg {
+    background-color: rgba(221, 236, 226, 1);
+}
+
+.box_bg-02 {
+    background-color: rgba(234, 235, 240, 1);
+   
+}
+
+.text-aling {
+    text-align: center;
+}
+
+.list-box {
+    padding-bottom: 80px;
+}
+
+.section_4 {
+    background-color: rgba(194, 239, 212, 1);
+    margin-top: 195px;
+}
+
+.img_model-100 {
+    width: 482px;
+}
+
+.exclusive {
+    color: rgba(34, 79, 52, 1);
+    font-family: 'Roboto Slab';
+    font-weight: 700;
+    font-size: 46px;
+    line-height: 60px;
+    padding-top: 75px;
+}
+
+.unlock {
+    font-family: 'Poppins';
+    font-size: 22px;
+    font-weight: 500;
+    line-height: 36px;
+    color: rgba(34, 79, 52, 1);
+    padding-top: 20px;
+}
+
+.time {
+    display: flex;
+    padding-top: 40px;
+}
+
+
+
+.time div {
+    width: 100px;
+    height: 100px;
+    background-color: rgba(255, 255, 255, 1);
+    margin-right: 35px;
+    text-align: center;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, inset rgba(0, 0, 0, 0.3) 0px -1px 2px 0px;
+}
+
+.time span {
+    color: rgba(34, 79, 52, 1);
+    font-family: 'Poppins';
+    font-size: 32px;
+    line-height: 48px;
+}
+
+.btn_by {
+    padding-top: 41px;
+}
+
+
+.im_dot {
+    position: relative;
+}
+
+.dot {
+    position: absolute;
+    bottom: 41px;
+    left: 10px;
+}
+
+.i_d {
+    width: 156px;
+}
+
+.pad_designer {
+    padding-top: 114px;
+}
+
+.box-model-bg {
+    background-color: rgba(211, 226, 215, 1);
+}
+
+.img_bag {
+    object-fit: cover;
+    width: 416px;
+}
+
+.text_z {
+    font-size: 30px;
+    font-family: 'Poppins';
+    line-height: 45px;
+    color: rgba(55, 55, 55, 1);
+    font-weight: 600;
+}
+
+.text_z_p {
+    font-size: 22px;
+    font-family: 'Poppins';
+    line-height: 31px;
+    color: rgba(55, 55, 55, 1);
+    font-weight: 500;
+}
+
+
+.pd_top {
+    padding-top: 25px;
+}
+
+.section_5 {
+    padding-top: 72px;
+}
+
+
+.emile_w {
+    font-family: 'Robobo Serif';
+    font-weight: 600;
+    font-size: 22px;
+    color: rgba(34, 79, 52, 1);
+    padding-top: 20px;
+}
+
+.paragraph {
+    font-family: 'Poppins';
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    color: rgba(111, 111, 111, 1);
+}
+
+.box_corner {
+    box-shadow: rgba(0, 0, 0, 0.2) 0px 12px 28px 0px, rgba(0, 0, 0, 0.1) 0px 2px 4px 0px, rgba(255, 255, 255, 0.05) 0px 0px 0px 1px inset;
+    padding-left: 19px;
+    padding-right: 25px;
+    padding-top: 7px;
+    padding-bottom: 29px;
+}
+
+.box_corner:hover {
+    background-color: rgba(194, 239, 212, 1);
+}
+
+.flex_arrow {
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+}
+
+.arrow_left {
+    width: 40px;
+    height: 40px;
+    text-align: center;
+    
+    
+}
+
+.arrow_right {
+    width: 40px;
+    height: 40px;
+    text-align: center;
+    
+}
+
+.btn_arrow {
+    border: none;
+    width: 40px;
+}
+
+.btn_arrow:hover {
+    background-color: rgba(194, 239, 212, 1);
+}
+
+.img_arrow {
+    width: 7px;
+    height: 10px;
+}
+
+.flex-box-arrow {
+    display: flex;
+    justify-content: center;
+}
+
+.mr_right {
+    margin-right: 10px;
+}
+
+.mr_left {
+    margin-left: 10px;
+}
+
+.section_footer {
+    margin-top: 193px;
+    background-color: rgba(34, 79, 52, 1);
+}
+
+.footer {
+    background-color: rgba(34, 79, 52, 1);
+    padding-top: 80px;
+}
+
+.rivo_logo-white {
+    font-family: 'Elephant';
+    font-size: 50px;
+    font-weight: 400;
+    color: rgba(255, 255, 255, 1);
+    padding-bottom: 44px;
+}
+
+.social {
+    font-family: 'Roboto Slab';
+    font-size: 22px;
+    font-weight: 500;
+    color: rgba(255, 255, 255, 1);
+    padding-bottom: 24px;
+    margin-bottom: 0;
+}
+
+.logo_social {
+    display: flex;
+}
+
+.logo_social div {
+    margin-right: 30px;
+}
+
+.list_footer {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.one_li {
+    font-family: 'Roboto Slab';
+    font-size: 22px;
+    font-weight: 500;
+    color: rgba(255, 255, 255, 1);
+}
+
+.lis {
+    font-family: 'Poppins';
+    font-size: 20px;
+    font-weight: 500;
+    color: rgba(194, 239, 212, 1);
+    text-decoration: none;
+}
+
+.list_footer li {
+    padding-bottom: 25px;
+}
+
+.pd_stay {
+    padding-bottom: 38px;
+}
+
+.btn_submit {
+    background-color: rgba(163, 243, 190, 1);
+    border: none;
+    font-family: 'Poppins';
+    font-size: 20px;
+    font-weight: 500;
+    color: rgba(34, 79, 52, 1);
+    line-height: 30px;
+}
+
+.form_bg {
+    background-color: rgba(34, 79, 52, 1);
+    border: 1px solid rgba(163, 243, 190, 1);
+}
+
+.pad_leffft {
+    padding-left: 140px;
+}
